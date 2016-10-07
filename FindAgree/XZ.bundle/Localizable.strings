@@ -1,0 +1,21 @@
+/* 
+  InfoPlist.strings
+  GameDemo
+
+  Created by mac on 16/7/3.
+  Copyright © 2016年 罗辑. All rights reserved.
+*/
+
+"Discover new content" = "发现";
+"Offer a reward" = "悬赏";
+"personal center" = "个人中心";
+
+"question reward list" = "求回复";
+"answer reward list" = "求点赞";
+
+"sort" = "排序";
+"ask answer" = "求回答";
+"ask like" = "求点赞";
+
+"my answer" = "我的回答";
+"my question" = "我的问题";
